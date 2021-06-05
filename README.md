@@ -1,4 +1,4 @@
-# Momba +& Create 2
+# Momba + Create 2
 1) A roomba I reverse engineered from all their public patents, improving on other people's similar (but far uglier) projects.
 2) Create 2 given by iRobot to test / tweak a bit.
 
